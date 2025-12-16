@@ -51,3 +51,7 @@ Improved Version ≈ ~15 million (approx.)
 - Embedded / Edge AI
 - Faster experimentation
 - Limited GPU / RAM systems
+
+
+<img width="654" height="587" alt="image" src="https://github.com/user-attachments/assets/f7fdd5a3-18b7-4a5b-b5d7-749ae4c7011e" />
+
