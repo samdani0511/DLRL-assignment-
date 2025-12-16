@@ -1,6 +1,6 @@
 # DLRL-assignment-
 ## Overview
-This repository contains multiple **AI and Machine Learning projects** that I have developed, improved, and optimized.  
+This repository contains multiple **AI and Machine Learning projects** that I have improved, and optimized.  
 The projects cover a wide range of topics including:
 
 - **Time Series Prediction** using LSTM.
