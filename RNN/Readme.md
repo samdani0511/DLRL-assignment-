@@ -59,7 +59,7 @@ Install dependencies via pip:
 
 ```bash
 pip install tensorflow keras numpy matplotlib
-
+```
 
 
 <img width="628" height="183" alt="image" src="https://github.com/user-attachments/assets/cb7bf50b-f0a9-4b02-aad7-a5a4e8d0f5fd" />
