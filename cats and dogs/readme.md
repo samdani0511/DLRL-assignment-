@@ -244,7 +244,4 @@ x = img_to_array(img) / 255.0
 
 ---
 <img width="696" height="609" alt="image" src="https://github.com/user-attachments/assets/78f518e0-25ef-4859-a461-01e1873f526d" />
-<img width="696" height="609" alt="image" src="https://github.com/user-attachments/assets/78f518e0-25ef-4859-a461-01e1873f526d" />
 
-
-Just tell the option number 👍
