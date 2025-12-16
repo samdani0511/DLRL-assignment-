@@ -110,5 +110,3 @@ tic-tac-toe-rl/
 <img width="220" height="268" alt="image" src="https://github.com/user-attachments/assets/412374f3-2442-4e2b-b9e3-61b77366b26f" />
 <img width="202" height="339" alt="image" src="https://github.com/user-attachments/assets/3d927d95-144b-4957-afcd-33f08f61de89" />
 
-I can also **add a small diagram showing AI training vs human gameplay** to make it more visual if you want. Do you want me to add that?
-```
